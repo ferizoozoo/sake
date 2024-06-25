@@ -1,4 +1,4 @@
-package main
+package sake
 
 import "net/http"
 
